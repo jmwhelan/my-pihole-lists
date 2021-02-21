@@ -1,4 +1,4 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1613088100,1613088100,"Migrated from /etc/pihole/adlists.list",1613290502
-2,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1613088328,1613088328,"A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.",1613290505
-3,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1613088395,1613370322,"Google&#039;s Accelerated Mobile Pages (AMP) are taking over the web. Block AMP pages with this list.",1613088422
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1613088100,1613088100,"Migrated from /etc/pihole/adlists.list",1613895302
+2,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1613088328,1613088328,"A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.",1613895305
+3,https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt,1,1613088395,1613370322,"Google&#039;s Accelerated Mobile Pages (AMP) are taking over the web. Block AMP pages with this list.",1613895306
